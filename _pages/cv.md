@@ -13,6 +13,8 @@ Education
 ======
 * MSc. in Physics & Astronomy, Durham University, 2004 - 2008
 * Ph.D in Astronomy, Durham University, 2008 - 2012
+  * Supervisor: Prof. Carlton Baugh
+  * Thesis Title: "Mock Galaxy Catalogues And Their Application To Future Galaxy Surveys"
 
 Work experience
 ======
