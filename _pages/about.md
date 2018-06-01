@@ -12,7 +12,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 About Me
 ======
-I am currently a NASA Postdoctoral Program (NPP) Fellow hosted at [Jet Propulsion Laboratory](https://www.jpl.nasa.gov) and [California Institute of Technology](http://www.caltech.edu). I studied for my Ph.D. at [Durham University](http://astro.dur.ac.uk) in the U.K. and prior to this current position I was a postdoctoral research associate at [University College London](http://www.ucl.ac.uk/physics-astronomy).
+I am currently a NASA Postdoctoral Program (NPP) Fellow hosted at [Jet Propulsion Laboratory](https://www.jpl.nasa.gov) and [California Institute of Technology](http://www.caltech.edu). Prior to this I received my Ph.D. from [Durham University](http://astro.dur.ac.uk) in the U.K. and was a postdoctoral research associate at [University College London](http://www.ucl.ac.uk/physics-astronomy).
 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
