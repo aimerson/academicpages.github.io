@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,33 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
+Interests
+======
+Galaxy formation & evolution, large-scale structure, cosmology, galaxy surveys, numerical simulations, big data analysis, pipeline development. 
+
 Education
 ======
-* MSc. in Physics & Astronomy, Durham University, 2004 - 2008
-* Ph.D in Astronomy, Durham University, 2008 - 2012
+* 2004-2008: MSc. in Physics & Astronomy, Durham University 
+* 2008-2012: Ph.D in Astronomy, Durham University (2008 - 2012)
   * Supervisor: Prof. Carlton Baugh
   * Thesis Title: "Mock Galaxy Catalogues And Their Application To Future Galaxy Surveys"
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016-present: NASA Postdoctoral Program Fellow, Jet Propulsion Laboratory, California Institute of Technology
+* 2012-2016: Postdoctoral Research Associate, University College London
   
-Skills
+Computing Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding languages:
+  * Good working knowledge: Fortran
+  * Familiar with: C++
+* Scripting:
+  * Good working knowledge: python
+  * Familiar with: csh, perl, IDL
+* Plotting:
+  * Good working knowledge: matplotlib
+  * Familiar with: sm
+* OS: Linux/Unix, MacOS, Windows
+* Experience running jobs on HPC facilities using job schedulers (PBS, SLURM, LSF)
 
 Publications
 ======
